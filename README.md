@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 my skills are reactjs nodejs mongodb expressjs
+my skills 🚀
+          javascript      
