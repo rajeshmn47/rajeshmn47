@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-my skills are reactjs nodejs mongodb expressjs angular django python postgresql mongodb mysql nextjs.
+my skills are reactjs nodejs mongodb expressjs angular django python postgresql mongodb mysql nextjs REDIS RABBITMQ AWS HEROKU
     I like to work with variety of apis and packages
