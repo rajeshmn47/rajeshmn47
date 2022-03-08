@@ -16,3 +16,21 @@ Here are some ideas to get you started:
 -->
 my skills are reactjs nodejs mongodb expressjs angular django python postgresql mongodb mysql nextjs REDIS RABBITMQ AWS FIREBASE HEROKU
     I like to work with variety of apis and packages.I am interested in open source.
+Hi there, I'm Piyush👦,
+A Full Stack Web developer🎯 and designer🌈 from India.
+
+👨‍💻 Full Stack MERN Developer
+🎥 Learn Web Development from me @RoadsideCoder
+📚 What do I believe? Jack of all, Master of some.
+📫 How to reach me: Instagram - @Piyush_eon or @RoadsideCoder
+🎙 Freelance Voice Over Artist.
+Languages:
+
+       
+
+Piyush's github stats Top Langs
+
+
+
+🤝🏻 Connect with Me
+LinkedIn Instagram Email
