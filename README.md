@@ -20,7 +20,6 @@ Hi there, I'm Rajesh👦,
 A Full Stack Web developer🎯 and designer🌈 from India.
 
 👨‍💻 Full Stack MERN Developer
-🎥 Learn Web Development from me @RoadsideCoder
 📚 What do I believe? Jack of all, Master of some.
 📫 How to reach me: twitter rajeshmn47
 🎙 Freelance Voice Over Artist.
