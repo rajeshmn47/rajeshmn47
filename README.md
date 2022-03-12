@@ -27,7 +27,7 @@ Languages:english
 
        
 
-Rajesh's github stats Top Langs
+Rajesh's github stats
 
 
 
