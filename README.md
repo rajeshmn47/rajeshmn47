@@ -35,3 +35,4 @@ Rajesh's github stats
 LinkedIn Instagram Email
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
