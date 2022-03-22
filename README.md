@@ -38,6 +38,8 @@ Rajesh's github stats
 
 🤝🏻 Connect with Me
 LinkedIn Instagram Email
+<p align="center">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
+</p>
