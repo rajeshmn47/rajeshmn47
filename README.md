@@ -48,5 +48,6 @@ LinkedIn Instagram Email
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
+![Streak](https://github-readme-stats.vercel.app/api/streak/?username=rajeshmn47&theme=tokyonight)
 https://github-stats.com/api/user/streak/current/:rajeshmn47
 
