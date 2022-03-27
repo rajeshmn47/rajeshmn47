@@ -48,7 +48,7 @@ Rajesh's github stats
 🤝🏻 Connect with Me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-khan-tanoli-845099205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-khan-tanoli-845099205/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajeshmn47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeshmn47/" height="30" width="40" /></a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
