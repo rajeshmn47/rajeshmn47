@@ -1,43 +1,61 @@
-### Hi there 👋
+![I'm a Web Developer | MERN-Stack Developer.](https://pbs.twimg.com/profile_banners/1457467822200721416/1636324863/1500x500)
 
-<!--
-**rajeshmn47/rajeshmn47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Abu Sayed
 
-Here are some ideas to get you started:
+#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-my skills are reactjs nodejs mongodb expressjs angular django python postgresql mongodb mysql nextjs REDIS RABBITMQ AWS FIREBASE HEROKU
-    I like to work with variety of apis and packages.I am interested in open source.
-Hi there, I'm Rajesh👦,
-A Full Stack Web developer🎯 and designer🌈 from India.
+- 🔭 I'm currently working on self development.
+- 🌱 I’m currently learning javascript.
+- 🥅 2022 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
+- ⚡ Fun fact: I love to learn something new and traveling !
+- 📫 How to reach me: devabusayed69@gmail.com
 
-👨‍💻 Full Stack MERN Developer
-📚 What do I believe? Jack of all, Master of some.
-📫 How to reach me: twitter rajeshmn47
-🎙 Freelance Voice Over Artist.
-Languages:english
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+I'm a dedicated web developer and hard worker. I am from Bangladesh but I currently live in Saudi Arabia. Now, I am looking for my first job.
+
+I have strong Proficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over one and a half years.
+
+and I am open-minded. I try to learn new things quickly, and I always try to keep myself updated, I want to become the best programmer and dedicate all my skills and talents to developing high-quality and unique websites.
+
+<h3 align="left">My Skills</h3>
+<h5 align="left">Technical Skills:</h5>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/materialui-blue?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/express.js-828282?style=for-the-badge&logo=expressdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/reduxthunk-764abc?style=for-the-badge&logo=redux-thunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/chart.js-fe777b?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcryptjs-d8739?style=for-the-badge&logo=bcryptjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsonwebToken(jwt)-df22a6?style=for-the-badge&logo=jsonwebToken(jwt)&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongoose-8b0305?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript(ES6)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/reactbootstrap-563D7C?style=for-the-badge&logo=reactbootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/restapi-0082c6?style=for-the-badge&logo=restapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-854196?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass/scss-E34F96?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h5 align="left">Tools:</h5>
+<p>
+    <img src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/notepad++-3fb61d?style=for-the-badge&logo=notepadplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/canva-20c4cb?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/chromedev-3b4840?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/postman-ff6c38?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/netlify-39a5bf?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/yarn-3c9dc8?style=for-the-badge&logo=yarn&logoColor=white" />
+
+</p>
 
 <h1>few of my links to the projects here</h1> 
 
