@@ -45,7 +45,7 @@ stackoverflow clne:-https://stackoverflowclone.netlify.app,
 linkedin clone:-https://linkedinclonerajesh.netlify.app,
 populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
 cricbuzzclone:-https://cricbuzzclone.netlify.app,
-portfolio:-https://portfoliorajesh.netlify.app
+portfolio:-https://myportfolioinreact.netlify.app
 
 
 Rajesh's github stats
