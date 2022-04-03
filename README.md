@@ -2,15 +2,15 @@
 
 ### Hi there 👋, I'm Abu Sayed
 
-#### I'm a Web Developer | MERN-Stack Developer. [Abu-Sayed's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dev-abu-sayed)
+#### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47)
 
 - 🔭 I'm currently working on self development.
 - 🌱 I’m currently learning javascript.
 - 🥅 2022 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
 - ⚡ Fun fact: I love to learn something new and traveling !
-- 📫 How to reach me: devabusayed69@gmail.com
+- 📫 How to reach me: rajeshmn47@gmail.com
 
-I'm a dedicated web developer and hard worker. I am from Bangladesh but I currently live in Saudi Arabia. Now, I am looking for my first job.
+I'm a dedicated web developer and hard worker. I am from Bangalore.
 
 I have strong Proficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over one and a half years.
 
