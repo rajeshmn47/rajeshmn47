@@ -1,6 +1,6 @@
 ![I'm a Web Developer | MERN-Stack Developer.](https://pbs.twimg.com/profile_banners/1457467822200721416/1636324863/1500x500)
 
-### Hi there 👋, I'm Abu Sayed
+### Hi there 👋, I'm Rajesh
 
 #### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47)
 
