@@ -41,11 +41,11 @@ Languages:english
 
 <h1>few of my links to the projects here</h1> 
 
-https://stackoverflowclone.netlify.app,
-https://linkedinclonerajesh.netlify.app,
-https://populationandcryptoapp.netlify.app,
-https://cricbuzzclone.netlify.app,
-https://portfoliorajesh.netlify.app
+stackoverflow clne:-https://stackoverflowclone.netlify.app,
+linkedin clone:-https://linkedinclonerajesh.netlify.app,
+populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
+cricbuzzclone:-https://cricbuzzclone.netlify.app,
+portfolio:-https://portfoliorajesh.netlify.app
 
 
 Rajesh's github stats
