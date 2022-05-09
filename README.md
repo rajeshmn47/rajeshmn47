@@ -5,7 +5,7 @@
 #### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47)
 
 - 🔭 I'm currently working as a full stack developer.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning typescript.
 - 🥅 2022 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
