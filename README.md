@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Rajesh
 
-#### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://abu-sayed.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47)
+#### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://myportfolioinreact.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47)
 
 - 🔭 I'm currently working as a full stack developer.
 - 🌱 I’m currently learning typescript.
