@@ -59,7 +59,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 
 <h1>few of my links to the projects here</h1> 
 
-stackoverflow clne:-https://stackoverflowclone.netlify.app,
+stackoverflow clone:-https://stackoverflowclone.netlify.app,
 linkedin clone:-https://linkedinclonerajesh.netlify.app,
 populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
 cricbuzzclone:-https://cricbuzzclone.netlify.app,
