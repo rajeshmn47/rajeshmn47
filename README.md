@@ -12,7 +12,7 @@
 
 I'm a dedicated web developer and hard worker. I am from Bangalore.
 
-I have strong Proficiency of Responsive Web Design, Functionality, Authentication, REST API, Database, Git GitHub, Deploy, Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over five and a half years.
+I have strong Proficiency of Responsive Web Design, Functionality,Great Architecture i.e,Database schema, Authentication, REST API, Database, Git GitHub, Deploy, Elastic search ,Google Search, etc, and I try to write clean and scalable code. I have been attached in programming for over five and a half years.
 
 and I am open-minded. I try to learn new things quickly, and I always try to keep myself updated, I want to become the best programmer and dedicate all my skills and talents to developing high-quality and unique websites.
 
