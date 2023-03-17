@@ -66,7 +66,11 @@ populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
 cricbuzzclone:-https://cricbuzzclone.netlify.app,
 portfolio:-https://myportfolioinreact.netlify.app
 
-
+<h5 align="left">Testing:</h5>
+<p>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+</p>
 Rajesh's github stats
 
 
