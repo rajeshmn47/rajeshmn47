@@ -55,7 +55,12 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
     <img src="https://img.shields.io/badge/netlify-39a5bf?style=for-the-badge&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/yarn-3c9dc8?style=for-the-badge&logo=yarn&logoColor=white" />
+</p>
 
+<h5 align="left">Testing:</h5>
+<p>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
 </p>
 
 <h1>few of my links to the projects here</h1> 
@@ -66,11 +71,7 @@ populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
 cricbuzzclone:-https://cricbuzzclone.netlify.app,
 portfolio:-https://myportfolioinreact.netlify.app
 
-<h5 align="left">Testing:</h5>
-<p>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-</p>
+
 Rajesh's github stats
 
 
