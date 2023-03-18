@@ -65,7 +65,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 
 <h5 align="left">Security Tools:</h5>
 <p>
-  <img src="https://repository-images.githubusercontent.com/504918230/6366a32c-2917-44e3-a1ad-d9f525fa2cab" />
+  <img src="https://repository-images.githubusercontent.com/504918230/6366a32c-2917-44e3-a1ad-d9f525fa2cab" width="200" height="400" />
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
 </p>
 
