@@ -63,6 +63,12 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
 </p>
 
+<h5 align="left">Security Tools:</h5>
+<p>
+  <img src="https://repository-images.githubusercontent.com/504918230/6366a32c-2917-44e3-a1ad-d9f525fa2cab" />
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+</p>
+
 <h1>few of my links to the projects here</h1> 
 
 stackoverflow clone:-https://stackoverflowclone.netlify.app,
