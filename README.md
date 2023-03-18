@@ -66,7 +66,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h5 align="left">Security Tools:</h5>
 <p>
   <img src="https://repository-images.githubusercontent.com/504918230/6366a32c-2917-44e3-a1ad-d9f525fa2cab" width="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSECR6hSKg53_W5IDBppE6eoeCXWcKa4244A&amp;usqp=CAU" width="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSECR6hSKg53_W5IDBppE6eoeCXWcKa4244A&amp;usqp=CAU" width="70"/>
 </p>
 
 <h1>few of my links to the projects here</h1> 
