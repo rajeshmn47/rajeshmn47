@@ -65,9 +65,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 
 <h5 align="left">Security Tools:</h5>
 <p>
- burpsuite
-</p>
-<p>nmap</p>
+ burpsuite nmap</p>
 
 <h1>few of my links to the projects here</h1> 
 
