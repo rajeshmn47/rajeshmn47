@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a full stack developer.
 - 🌱 I’m currently learning typescript.
-- 🥅 2022 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
+- 🥅 2023 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
 
