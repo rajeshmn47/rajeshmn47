@@ -91,7 +91,7 @@ me: rajeshmn47@gmail.com
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmn47&" alt="hamza4600" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmn47&" alt="rajesh" /></p>
 
 <br/><br/><br/><br/>
 <a href="https://github.com/rajeshmn47/github-readme-activity-graph"><img alt="Rajesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajeshmn47&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
