@@ -89,7 +89,3 @@ me: rajeshmn47@gmail.com
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmn47&" alt="rajesh" /></p>
 
-<br/><br/><br/><br/>
-<a href="https://github.com/rajeshmn47/github-readme-activity-graph">
-
-<br/><br/>
