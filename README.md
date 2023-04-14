@@ -69,7 +69,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 
 <h1>few of my links to the projects here</h1> 
 
-stackoverflow clone:-https://stackoverflowclonefrontend.netlify.app/,
+<h1>stackoverflow clone:-https://stackoverflowclonefrontend.netlify.app/,</h1>
 dream 11 clone:-https://dream-11-clone-mern-stack.vercel.app/
 populationandcryptoapp:-https://populationandcryptoapp.netlify.app,
 cricbuzzclone:-https://cricbuzzclone.netlify.app,
