@@ -77,12 +77,6 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 
 Rajesh's github stats
 
-🤝🏻 Connect with Me
-<h3 align="left">Connect with me:</h3>
-me: rajeshmn47@gmail.com
-<p align="left">
-</p>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
