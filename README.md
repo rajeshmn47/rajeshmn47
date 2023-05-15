@@ -2,11 +2,12 @@
 
 ### Hi there 👋, I'm Rajesh
 
-#### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://myportfolioinreact.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47) contact: 9380899596
+#### I'm a Web Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://myportfolioinreact.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47) | contact: 9380899596
 
 - 🔭 I'm currently working as a full stack developer.
 - 🌱 I’m currently learning typescript.
-- 🥅 2023 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍
+- 🥅 2023 Goals: Learn TypeScript, Next.js, Data structure, algorithm 😍ts
+0 index
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
 
