@@ -1,4 +1,3 @@
-![I'm a Web Developer | MERN-Stack Developer.](https://pbs.twimg.com/profile_banners/1457467822200721416/1636324863/1500x500)
 
 ### Hi there 👋, I'm Rajesh
 
