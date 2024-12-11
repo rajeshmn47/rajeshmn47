@@ -68,8 +68,8 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <a href="https://www.buymeacoffee.com/rajeshmn47" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <h5 align="left">Support me if u are from india:</h5>
-gpay: 7259293140@ybl![WhatsApp Image 2024-12-11 at 9 54 54 AM](https://github.com/user-attachments/assets/43233828-791c-4bf0-a988-4ca28b28ed7d)
-<img src="https://github.com/user-attachments/assets/43233828-791c-4bf0-a988-4ca28b28ed7d" />
+gpay: 7259293140@ybl
+<img src="https://github.com/user-attachments/assets/43233828-791c-4bf0-a988-4ca28b28ed7d" width="328"   height="600" />
 
 <h1>few of my links to the projects here</h1> 
 
