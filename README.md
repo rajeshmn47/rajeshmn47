@@ -70,7 +70,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h5 align="left">Support using this if u are from india:</h5>
 <p>- UPI ID: 7259293140@ybl</p>
 <p>- Scan the QR code below:</p>
-<img src="https://github.com/user-attachments/assets/43233828-791c-4bf0-a988-4ca28b28ed7d" width="108"   height="200" />
+<img src="https://github.com/user-attachments/assets/43233828-791c-4bf0-a988-4ca28b28ed7d" width="208"   height="200" />
 <a href="upi://pay?pa=7259293140@ybl@&pn=JohnDoe&cu=INR">Buy Now</a>
 <h1>few of my links to the projects here</h1> 
 
