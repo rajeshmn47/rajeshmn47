@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as a full stack developer.
 - 🌱 I’m currently learning typescript.
-- 🥅 2024 Goals: Learn NestJS
+- 🥅 2025 Goals: Learn AI stuff
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
 
