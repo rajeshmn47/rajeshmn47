@@ -74,7 +74,7 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h1>few of my links to the projects here</h1> 
 
 <h5>stackoverflow clone:-https://stackoverflowclonefrontend.netlify.app/,</h5>
-<h5>dream 11 clone:-https://dream11clone.vercel.app/</h5>
+<h5>dream 11 clone:-https://dream-11-clone-nu.vercel.app,</h5>
 <h5>whatsapp clone:-https://whatsapp-clone-omega-six.vercel.app,</h5>
 <h5>populationandcryptoapp:-https://populationandcryptoapp.netlify.app,</h5>
 <h5>cricbuzzclone:-https://cricbuzzclone.netlify.app,</h5>
