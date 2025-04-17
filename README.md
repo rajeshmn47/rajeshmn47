@@ -37,7 +37,6 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
   <img src="https://img.shields.io/badge/reactbootstrap-563D7C?style=for-the-badge&logo=reactbootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/restapi-0082c6?style=for-the-badge&logo=restapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/axios-854196?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/sass/scss-E34F96?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
