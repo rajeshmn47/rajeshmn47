@@ -86,6 +86,5 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmn47&" alt="rajesh" /></p>
-[![Sponsor me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink)](https://github.com/sponsors/rajeshmn47)
 
 
