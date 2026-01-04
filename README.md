@@ -81,11 +81,11 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h5>cricbuzzclone:-https://cricbuzzclone.netlify.app,</h5>
 <h5>portfolio:-https://myportfolioinreact.netlify.app</h5>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshmn47)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmn47&" alt="rajesh" /></p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshmn47)(https://git.io/streak-stats)
 
 
