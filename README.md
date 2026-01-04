@@ -81,7 +81,6 @@ and I am open-minded. I try to learn new things quickly, and I always try to kee
 <h5>cricbuzzclone:-https://cricbuzzclone.netlify.app,</h5>
 <h5>portfolio:-https://myportfolioinreact.netlify.app</h5>
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47&show_icons=true&theme=tokyonight)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajeshmn47)
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajeshmn47.rajeshmn47)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmn47&theme=tokyonight)
