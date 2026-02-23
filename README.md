@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
 
-I'm a dedicated web developer and hard worker. I am from Bangalore.
+As a results-driven Software Developer from Bangalore, I take pride in my discipline, problem-solving mindset, and commitment to delivering robust software solutions.
 
 I have strong Proficiency of Responsive Web Design, Functionality,Designing Database schema, Web security, Owasp, Authentication, REST API, Postgresql,Mysql,Mongodb,Firebase,Python,integrating AI llms, Git GitHub, deploying on servers on AWS,Render,azure,hostinger, Elastic search ,Docker, etc, and I try to write clean and scalable code. I have been attached in programming for over five and a half years.
 
