@@ -4,8 +4,7 @@
 #### I'm a Full-stack Developer | MERN-Stack Developer. [rajeshmn's Portfolio](https://myportfolioinreact.netlify.app/) | [Resume](https://drive.google.com/file/d/1VY5jDzK7VFUahN5sMKBCLyTvru5fas0R/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/rajeshmn47) | contact: 9380899596
 
 - 🔭 I'm currently working as a full stack developer.
-- 🌱 I’m currently learning typescript.
-- 🥅 2026 Goals: Learn AI stuff
+- 🎯 2026 Goal: Explore AI and integrate it into practical applications
 - ⚡ Fun fact: I love to learn something new and traveling !
 - 📫 How to reach me: rajeshmn47@gmail.com
 
